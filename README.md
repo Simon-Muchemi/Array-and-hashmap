@@ -1,2 +1,2 @@
-# Array-and-hashmap
+# Java-Hashmap-Project
 Object-Orientend Programming assignment
